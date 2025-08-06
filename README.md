@@ -1,3 +1,1 @@
-Download Process Termux
-pkg update && pkg upgrade
-pkg install git
+This Tools in Hacking & education really best Use But Illegal Use In Own Risk
